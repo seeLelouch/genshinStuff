@@ -1,6 +1,6 @@
 # genshinStuff
 
-**MONDSTADT
+###MONDSTADT
 
 
 1.  "Reliable Helper"
@@ -24,7 +24,7 @@
 	- no one has a clue how to do it
 	
 	
-**LIYUE
+###LIYUE
 
 
 1.  "Fishing Jiangxue"
@@ -62,7 +62,7 @@
 	- start with wrath if possible
 
 
-**INAZUMA
+###INAZUMA
 
 
 1.	"Bantan Sango Case File"
