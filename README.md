@@ -1,37 +1,43 @@
-# genshinStuff
+# genshinStuff </h1>
 
-###MONDSTADT
+<h3>MONDSTADT</h3>
 
 
-1.  "Reliable Helper"
+<ins>1.  "Reliable Helper"</ins>
+
 	- Probably done: peak ? side
 
-2.  "Whispers in the Wind"
+<ins>2.  "Whispers in the Wind" </ins>
+
 	- 3 dandelion seeds
 	- tp to Falcon Domain above Windrise
 	- collect 2 then give to Glory
 	- ? / 5
 
-3.	"A Boy's Letter"
+<ins>3.	"A Boy's Letter"</ins>
+
 	- Needs "Pigeons Go AWOL" (Hilichurl Version)
 	- Then unlocks "A Boy's Letter" < complete for Achievement
 	
-4.	"Recuperating From a Severe Illness"
+<ins>4.	"Recuperating From a Severe Illness"</ins>
+
 	- Needs 3 completions of "Miracle Medicine"
 	- Done ? / 3
 	
-5.	"Anna's Adventures"
+<ins>5.	"Anna's Adventures"</ins>
+
 	- no one has a clue how to do it
 	
 	
-###LIYUE
+<h3>LIYUE</h3>
 
 
-1.  "Fishing Jiangxue"
+<ins>1.  "Fishing Jiangxue"</ins>
 
-2.	"Yanxiao's Dilemma"
+<ins>2.	"Yanxiao's Dilemma"</ins>
 
-3.	"Good Sign"
+<ins>3.	"Good Sign"</ins>
+
 	- find 5 signs
 	- ? done
 	- ruin 4 signs
@@ -39,49 +45,59 @@
 	- 2 at a time
 	- Refer to: https://genshin-impact.fandom.com/wiki/Good_Sign
 	
-5.	"A Little Raid"
+<ins>4.	"A Little Raid"</ins>
+
 	- Complete Box of Gadgets version of "The Lost Relic"
 	
-6.	"For Old Time's Sake"
+<ins>5.	"For Old Time's Sake"</ins>
 
-7.	"The Little Pirate Goes Out to Sea"
+
+<ins>6.	"The Little Pirate Goes Out to Sea"<ins>
+
 	- Complete "Troubles Traveling Through Tributaries"
 	- Complete "Ahoy! A Pirate's Growth for Ye!" for above
 	
-8.	"Geo Travel Diary"
+<ins>7.	"Geo Travel Diary"</ins>
+
 	- Give different things (https://genshin-impact.fandom.com/wiki/Geo_Travel_Diary"
 	- God of Wealth _DONE_
 	- God of the Stove
 	- God of History
 	- God of Ground-breaker
 
-9.	"Cliffhanger"
+<ins>8.	"Cliffhanger"</ins>
+
 	- 3 different stories
 	- can talk to 2 
 	- can give 1 each time to the guy
 	- start with wrath if possible
 
 
-###INAZUMA
+<h3>INAZUMA</h3>
 
 
-1.	"Bantan Sango Case File"
+<ins>1.	"Bantan Sango Case File"</ins>
+
 	- Last 2 comissions of the Quest line
 	- Done ? / 6
 	
-2.	"The Gourmet Supremos: Foodie Quiz"
+<ins>2.	"The Gourmet Supremos: Foodie Quiz"</ins>
+
 	- answer all 3 questions right
 	- has other gourmet supremos quests as prerequisite > google
 	
-3.	"The Gourmet Supremos: Extreme Cookery"
+<ins>3.	"The Gourmet Supremos: Extreme Cookery"</ins>
+
 	- pick left & pick right (? done)
 	- has other gourmet supremos quests as prerequisite > google
 
-4.	"Storytelling Method"
+<ins>4.	"Storytelling Method"</ins>
 	
-5.	"This Novel... Seems Familiar?"
+<ins>5.	"This Novel... Seems Familiar?"</ins>
+
 	- idfk google when you get the 2 guys having book problems
 
-6.	"An Art to Be Honed"
+<ins>6.	"An Art to Be Honed"</ins>
+
 	- complete 5 times
 	- done 4 / 5
