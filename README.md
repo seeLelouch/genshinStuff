@@ -19,12 +19,7 @@
 	- Needs "Pigeons Go AWOL" (Hilichurl Version)
 	- Then unlocks "A Boy's Letter" < complete for Achievement
 	
-<ins>4.	"Recuperating From a Severe Illness"</ins>
-
-	- Needs 3 completions of "Miracle Medicine"
-	- Done ? / 3
-	
-<ins>5.	"Anna's Adventures"</ins>
+<ins>4.	"Anna's Adventures"</ins>
 
 	- no one has a clue how to do it
 	
