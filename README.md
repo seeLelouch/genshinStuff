@@ -118,7 +118,9 @@ Inazuma
 - 68 Roaming in Silence
 - 72 Forgotten Epic
 
+```
 ```diff
 + Need: 18, 20, 21, 22, 23, 42, 45, 46, 55, 59, 61, 66, 67, 68, 72 
 - Have: --, --
+```
 ```
