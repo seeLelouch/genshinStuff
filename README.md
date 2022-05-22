@@ -98,3 +98,60 @@ PLEASE GIB
 
 	- complete 5 times
 	- done 4 / 5
+	
+	
+# Spincrystals </h1>
+
+Mondstadt
+2 - A Sweet Smile
+5 - The Edge of the Prairie
+6 - A Tale of Two Dragons
+7 - Happy Journey 
+8 - Legend of the Wind
+9 - Bustling Afternoon in Mondstadt
+10 - Dusk in Mondstadt
+12 - Moonlight in Mondstadt
+13 - Another Day in Mondstadt
+17 - A Happy Day
+18 - Tender Strength
+20 - Whispering Plain
+21 - A New Day with Hope
+22 - Eternal Anamnesis (Genshin Impact Main Theme Var.)
+23 - Journey of Hope (Genshin Impact Main Theme Var.)
+
+Liyue
+25 - Good Night, Liyue
+29 - Winding River
+30 - Mild Waves
+31 - Rhythm Amidst the Reeds
+33 - Flow of Mildness
+35 - Legends Swept Away
+36 - Plain of Nostalgia 
+37 - Rhythms From the Conch 
+40 - Above the Sea of Clouds
+41 - Rainbow at Summit
+42 - Red Leaf on the Chessboard
+43 - Slumbering Lore
+44 - Lost Expectation
+45 - The Realm Within
+46 - Sojourner's Sweet Dream (Wangshu Night)
+
+Inazuma
+51 - Everlasting Devotion
+55 - Flickering Sakura
+57 - Scarred Island
+58 - Silent Testimony
+59 - Island of Hanabi
+60 - Preparation of Matsuri
+61 - Illuminated Coral Palace
+62 - A Tranquil Town
+63 - In a Harmonious Atmosphere
+64 - Island of Crystal and Pearl
+65 - Misty Truth
+66 - Sorrows of Strays
+67 - Ruu's Melody
+68 - Roaming in Silence
+69 - Echoes of Solitude
+70 - Dirge of the Soundless
+71 - Nothing but Ivy
+72 - Forgotten Epic
