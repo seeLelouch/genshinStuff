@@ -98,7 +98,6 @@ PLEASE GIB
 
 - 18 Tender Strength
 - 20 Whispering Plain
-- 21 A New Day with Hope
 - 22 Eternal Anamnesis (Genshin Impact Main Theme Var.)
 - 23 Journey of Hope (Genshin Impact Main Theme Var.)
 
@@ -116,12 +115,11 @@ PLEASE GIB
 - 66 Sorrows of Strays
 - 67 Ruu's Melody
 - 68 Roaming in Silence
-- 72 Forgotten Epic
 
 ~~~
 ```diff
 *** SPINCRYSTAL ***
-+ Need: 18, 20, 21, 22, 23, 42, 45, 46, 55, 59, 61, 66, 67, 68, 72 
-- Have: 13, 25
++ Need: 18, 20, 22, 23, 42, 45, 46, 55, 59, 61, 66, 67, 68
+- Have: 25
 ```
 ~~~
