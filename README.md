@@ -102,13 +102,13 @@ PLEASE GIB
 - 22 Eternal Anamnesis (Genshin Impact Main Theme Var.)
 - 23 Journey of Hope (Genshin Impact Main Theme Var.)
 
-Liyue
+<h3> Liyue </h3>
 
 - 42 Red Leaf on the Chessboard
 - 45 The Realm Within
 - 46 Sojourner's Sweet Dream (Wangshu Night)
 
-Inazuma
+<h3> Inazuma </h3>
 
 - 55 Flickering Sakura
 - 59 Island of Hanabi
