@@ -2,123 +2,115 @@
 
 <h3>MONDSTADT</h3>
 
-
 PLEASE GIB
 
-<ins>1.  "Reliable Helper"</ins>
+<ins>1. "Reliable Helper"</ins>
 
-	- Probably done: peak ? side
+    - Probably done: peak ? side
 
-<ins>2.  "Whispers in the Wind" </ins>
+<ins>2. "Whispers in the Wind" </ins>
 
-	- 3 dandelion seeds
-	- tp to Falcon Domain above Windrise
-	- collect 2 then give to Glory
-	- 1/5
+    - 3 dandelion seeds
+    - tp to Falcon Domain above Windrise
+    - collect 2 then give to Glory
+    - 1/5
 
-<ins>3.	"A Boy's Letter"</ins>
+<ins>3. "A Boy's Letter"</ins>
 
-	- Needs "Pigeons Go AWOL" (Hilichurl Version)
-	- Then unlocks "A Boy's Letter" < complete for Achievement
-	
-<ins>4.	"Anna's Adventures"</ins>
+    - Needs "Pigeons Go AWOL" (Hilichurl Version)
+    - Then unlocks "A Boy's Letter" < complete for Achievement
 
-	- no one has a clue how to do it
-	
-	
+<ins>4. "Anna's Adventures"</ins>
+
+    - no one has a clue how to do it
+
 <h3>LIYUE</h3>
 
+<ins>1. "Fishing Jiangxue"</ins>
 
-<ins>1.  "Fishing Jiangxue"</ins>
+<ins>2. "Yanxiao's Dilemma"</ins>
 
-<ins>2.	"Yanxiao's Dilemma"</ins>
+<ins>3. "Good Sign"</ins>
 
-<ins>3.	"Good Sign"</ins>
+    - find 5 signs
+    - ? done
+    - ruin 4 signs
+    - ? done
+    - 2 at a time
+    - Refer to: https://genshin-impact.fandom.com/wiki/Good_Sign
 
-	- find 5 signs
-	- ? done
-	- ruin 4 signs
-	- ? done
-	- 2 at a time
-	- Refer to: https://genshin-impact.fandom.com/wiki/Good_Sign
-	
-<ins>4.	"A Little Raid"</ins>
+<ins>4. "A Little Raid"</ins>
 
-	- Complete Box of Gadgets version of "The Lost Relic"
-	
-<ins>5.	"For Old Time's Sake"</ins>
+    - Complete Box of Gadgets version of "The Lost Relic"
 
+<ins>5. "For Old Time's Sake"</ins>
 
-<ins>6.	"The Little Pirate Goes Out to Sea"<ins>
+<ins>6. "The Little Pirate Goes Out to Sea"<ins>
 
-	- Complete "Troubles Traveling Through Tributaries"
-	- Complete "Ahoy! A Pirate's Growth for Ye!" for above
-	
-<ins>7.	"Geo Travel Diary"</ins>
+    - Complete "Troubles Traveling Through Tributaries"
+    - Complete "Ahoy! A Pirate's Growth for Ye!" for above
 
-	- Give different things (https://genshin-impact.fandom.com/wiki/Geo_Travel_Diary"
-	- God of Wealth _DONE_
-	- God of the Stove
-	- God of History
-	- God of Ground-breaker
+<ins>7. "Geo Travel Diary"</ins>
 
-<ins>8.	"Cliffhanger"</ins>
+    - Give different things (https://genshin-impact.fandom.com/wiki/Geo_Travel_Diary"
+    - God of Wealth _DONE_
+    - God of the Stove
+    - God of History
+    - God of Ground-breaker
 
-	- 3 different stories
-	- can talk to 2 
-	- can give 1 each time to the guy
-	- start with wrath if possible
+<ins>8. "Cliffhanger"</ins>
 
+    - 3 different stories
+    - can talk to 2
+    - can give 1 each time to the guy
+    - start with wrath if possible
 
 <h3>INAZUMA</h3>
 
+<ins>1. "Bantan Sango Case File"</ins>
 
-<ins>1.	"Bantan Sango Case File"</ins>
+    - Last 2 comissions of the Quest line
+    - Done ? / 6
 
-	- Last 2 comissions of the Quest line
-	- Done ? / 6
-	
-<ins>2.	"The Gourmet Supremos: Foodie Quiz"</ins>
+<ins>2. "The Gourmet Supremos: Foodie Quiz"</ins>
 
-	- answer all 3 questions right
-	- has other gourmet supremos quests as prerequisite > google
-	
-<ins>3.	"The Gourmet Supremos: Extreme Cookery"</ins>
+    - answer all 3 questions right
+    - has other gourmet supremos quests as prerequisite > google
 
-	- pick left & pick right (? done)
-	- has other gourmet supremos quests as prerequisite > google
+<ins>3. "The Gourmet Supremos: Extreme Cookery"</ins>
 
-<ins>4.	"Storytelling Method"</ins>
-	
-<ins>5.	"This Novel... Seems Familiar?"</ins>
+    - pick left & pick right (? done)
+    - has other gourmet supremos quests as prerequisite > google
 
-	- idfk google when you get the 2 guys having book problems
+<ins>4. "Storytelling Method"</ins>
+<ins>5. "This Novel... Seems Familiar?"</ins>
 
-<ins>6.	"An Art to Be Honed"</ins>
+    - idfk google when you get the 2 guys having book problems
 
-	- complete 5 times
-	- done 4 / 5
-	
-	
+<ins>6. "An Art to Be Honed"</ins>
+
+    - complete 5 times
+    - done 4 / 5
+
 # Spincrystals </h1>
 
-Mondstadt
+<h3> Mondstadt </h3>
 
 - 2 A Sweet Smile
-5 - The Edge of the Prairie
-6 - A Tale of Two Dragons
-7 - Happy Journey 
-8 - Legend of the Wind
-9 - Bustling Afternoon in Mondstadt
-10 - Dusk in Mondstadt
-12 - Moonlight in Mondstadt
-13 - Another Day in Mondstadt
-17 - A Happy Day
-18 - Tender Strength
-20 - Whispering Plain
-21 - A New Day with Hope
-22 - Eternal Anamnesis (Genshin Impact Main Theme Var.)
-23 - Journey of Hope (Genshin Impact Main Theme Var.)
+- 5 The Edge of the Prairie
+- 6 A Tale of Two Dragons
+- 7 Happy Journey
+  8 - Legend of the Wind
+  9 - Bustling Afternoon in Mondstadt
+  10 - Dusk in Mondstadt
+  12 - Moonlight in Mondstadt
+  13 - Another Day in Mondstadt
+  17 - A Happy Day
+  18 - Tender Strength
+  20 - Whispering Plain
+  21 - A New Day with Hope
+  22 - Eternal Anamnesis (Genshin Impact Main Theme Var.)
+  23 - Journey of Hope (Genshin Impact Main Theme Var.)
 
 Liyue
 
@@ -128,8 +120,8 @@ Liyue
 31 - Rhythm Amidst the Reeds
 33 - Flow of Mildness
 35 - Legends Swept Away
-36 - Plain of Nostalgia 
-37 - Rhythms From the Conch 
+36 - Plain of Nostalgia
+37 - Rhythms From the Conch
 40 - Above the Sea of Clouds
 41 - Rainbow at Summit
 42 - Red Leaf on the Chessboard
