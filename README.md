@@ -103,7 +103,8 @@ PLEASE GIB
 # Spincrystals </h1>
 
 Mondstadt
-2 - A Sweet Smile
+
+- 2 A Sweet Smile
 5 - The Edge of the Prairie
 6 - A Tale of Two Dragons
 7 - Happy Journey 
@@ -120,6 +121,7 @@ Mondstadt
 23 - Journey of Hope (Genshin Impact Main Theme Var.)
 
 Liyue
+
 25 - Good Night, Liyue
 29 - Winding River
 30 - Mild Waves
@@ -137,6 +139,7 @@ Liyue
 46 - Sojourner's Sweet Dream (Wangshu Night)
 
 Inazuma
+
 51 - Everlasting Devotion
 55 - Flickering Sakura
 57 - Scarred Island
