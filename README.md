@@ -6,7 +6,9 @@ PLEASE GIB
 
 <ins>1. "Reliable Helper"</ins>
 
-    - Probably done: peak ? side
+    - FUCK yOU
+	https://genshin-impact.fandom.com/wiki/Reliable_Helper
+	REFER TO ABOVE FOR PERFECT
 
 <ins>2. "Whispers in the Wind" </ins>
 
