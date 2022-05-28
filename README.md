@@ -106,7 +106,6 @@ PLEASE GIB
 <h3> Liyue </h3>
 
 - 45 The Realm Within
-- 46 Sojourner's Sweet Dream (Wangshu Night)
 
 <h3> Inazuma </h3>
 
@@ -117,7 +116,7 @@ PLEASE GIB
 ~~~
 ```diff
 *** SPINCRYSTAL ***
-+ Need: 18, 20, 22, 23, 45, 46, 66, 67, 68
++ Need: 18, 20, 22, 23, 45, 66, 67, 68
 - Have: 
 ```
 ~~~
