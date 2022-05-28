@@ -110,7 +110,6 @@ PLEASE GIB
 
 <h3> Inazuma </h3>
 
-- 55 Flickering Sakura
 - 61 Illuminated Coral Palace
 - 66 Sorrows of Strays
 - 67 Ruu's Melody
@@ -119,7 +118,7 @@ PLEASE GIB
 ~~~
 ```diff
 *** SPINCRYSTAL ***
-+ Need: 18, 20, 22, 23, 45, 46, 55, 61, 66, 67, 68
++ Need: 18, 20, 22, 23, 45, 46, 61, 66, 67, 68
 - Have: 
 ```
 ~~~
