@@ -98,7 +98,6 @@ PLEASE GIB
 
 <h3> Mondstadt </h3>
 
-- 18 Tender Strength
 - 20 Whispering Plain
 - 22 Eternal Anamnesis (Genshin Impact Main Theme Var.)
 - 23 Journey of Hope (Genshin Impact Main Theme Var.)
@@ -114,7 +113,7 @@ PLEASE GIB
 ~~~
 ```diff
 *** SPINCRYSTAL ***
-+ Need: 18, 20, 22, 23, 45, 66
++ Need: 20, 22, 23, 45, 66
 - Have: 
 ```
 ~~~
