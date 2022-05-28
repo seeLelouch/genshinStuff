@@ -110,13 +110,11 @@ PLEASE GIB
 <h3> Inazuma </h3>
 
 - 66 Sorrows of Strays
-- 67 Ruu's Melody
-- 68 Roaming in Silence
 
 ~~~
 ```diff
 *** SPINCRYSTAL ***
-+ Need: 18, 20, 22, 23, 45, 66, 67, 68
++ Need: 18, 20, 22, 23, 45, 66
 - Have: 
 ```
 ~~~
