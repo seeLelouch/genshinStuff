@@ -113,7 +113,7 @@ PLEASE GIB
 ~~~
 ```diff
 *** SPINCRYSTAL ***
-+ Need: 20, 45, 66
++ Need: 20
 - Have: 18, 23
 ```
 ~~~
