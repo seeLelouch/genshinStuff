@@ -99,16 +99,6 @@ PLEASE GIB
 <h3> Mondstadt </h3>
 
 - 20 Whispering Plain
-- 22 Eternal Anamnesis (Genshin Impact Main Theme Var.)
-- 23 Journey of Hope (Genshin Impact Main Theme Var.)
-
-<h3> Liyue </h3>
-
-- 45 The Realm Within
-
-<h3> Inazuma </h3>
-
-- 66 Sorrows of Strays
 
 ~~~
 ```diff
