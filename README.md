@@ -96,14 +96,12 @@ PLEASE GIB
 
 # Spincrystals </h1>
 
-<h3> Mondstadt </h3>
-
-- 20 Whispering Plain
+Done
 
 ~~~
 ```diff
 *** SPINCRYSTAL ***
-+ Need: 20
-- Have: 18, 23
++ Need: done
+- Have: //, //
 ```
 ~~~
