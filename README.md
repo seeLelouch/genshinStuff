@@ -10,8 +10,8 @@ PLEASE GIB
 	https://genshin-impact.fandom.com/wiki/Reliable_Helper
 	REFER TO ABOVE FOR PERFECT
 	- Mountaintop DONE
-	foot of the mountain in another world
-
+	- Mountainside DONE
+	
 <ins>2. "Whispers in the Wind" </ins>
 
     - 3 dandelion seeds
