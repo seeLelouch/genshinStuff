@@ -26,7 +26,7 @@ PLEASE GIB
 
 <ins>4. "Anna's Adventures"</ins>
 
-Adventurer Exam: Taking Flight (answer all questions right) -> Anna the Adventurer!
+	 -"Anna the Adventurer!"
 
 <h3>LIYUE</h3>
 
