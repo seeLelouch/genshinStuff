@@ -2,29 +2,19 @@
 
 <h3>MONDSTADT</h3>
 
-PLEASE GIB
-
-<ins>1. "Reliable Helper"</ins>
-
-    - FUCK yOU
-	https://genshin-impact.fandom.com/wiki/Reliable_Helper
-	REFER TO ABOVE FOR PERFECT
-	- Mountaintop DONE
-	- Mountainside DONE
-	
-<ins>2. "Whispers in the Wind" </ins>
+<ins>1. "Whispers in the Wind" </ins>
 
     - 3 dandelion seeds
     - tp to Falcon Domain above Windrise
     - collect 2 then give to Glory
     - 1/5
 
-<ins>3. "A Boy's Letter"</ins>
+<ins>2. "A Boy's Letter"</ins>
 
     - Needs "Pigeons Go AWOL" (Hilichurl Version)
     - Then unlocks "A Boy's Letter" < complete for Achievement
 
-<ins>4. "Anna's Adventures"</ins>
+<ins>3. "Anna's Adventures"</ins>
 
 	 -"Anna the Adventurer!"
 
