@@ -14,10 +14,6 @@
     - Needs "Pigeons Go AWOL" (Hilichurl Version)
     - Then unlocks "A Boy's Letter" < complete for Achievement
 
-<ins>3. "Anna's Adventures"</ins>
-
-	 -"Anna the Adventurer!"
-
 <h3>LIYUE</h3>
 
 <ins>1. "Fishing Jiangxue"</ins>
