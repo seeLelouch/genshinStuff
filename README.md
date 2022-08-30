@@ -7,7 +7,7 @@
     - 3 dandelion seeds
     - tp to Falcon Domain above Windrise
     - collect 2 then give to Glory
-    - 1/5
+    - 2/5
 
 <ins>2. "A Boy's Letter"</ins>
 
