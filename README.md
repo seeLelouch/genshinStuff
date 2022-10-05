@@ -82,6 +82,11 @@
     - complete 5 times
     - done 4 / 5
 
+<h3>SUMERU</h3>
+
+TBD, can't be assed
+
+
 # Spincrystals </h1>
 
 Done
