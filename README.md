@@ -2,14 +2,7 @@
 
 <h3>MONDSTADT</h3>
 
-<ins>1. "Whispers in the Wind" </ins>
-
-    - 3 dandelion seeds
-    - tp to Falcon Domain above Windrise
-    - collect 2 then give to Glory
-    - 4/5
-
-<ins>2. "A Boy's Letter"</ins>
+<ins>1. "A Boy's Letter"</ins>
 
     - Needs "Pigeons Go AWOL" (Hilichurl Version)
     - Then unlocks "A Boy's Letter" < complete for Achievement
