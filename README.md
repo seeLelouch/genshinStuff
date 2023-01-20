@@ -1,12 +1,5 @@
 # genshinStuff </h1>
 
-<h3>MONDSTADT</h3>
-
-<ins>1. "A Boy's Letter"</ins>
-
-    - Needs "Pigeons Go AWOL" (Hilichurl Version)
-    - Then unlocks "A Boy's Letter" < complete for Achievement
-
 <h3>LIYUE</h3>
 
 <ins>1. "Fishing Jiangxue"</ins>
