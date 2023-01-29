@@ -15,18 +15,14 @@
     - 2 at a time
     - Refer to: https://genshin-impact.fandom.com/wiki/Good_Sign
 
-<ins>4. "A Little Raid"</ins>
+<ins>4. "For Old Time's Sake"</ins>
 
-    - Complete Box of Gadgets version of "The Lost Relic"
-
-<ins>5. "For Old Time's Sake"</ins>
-
-<ins>6. "The Little Pirate Goes Out to Sea"<ins>
+<ins>5. "The Little Pirate Goes Out to Sea"<ins>
 
     - Complete "Troubles Traveling Through Tributaries"
     - Complete "Ahoy! A Pirate's Growth for Ye!" for above
 
-<ins>7. "Geo Travel Diary"</ins>
+<ins>6. "Geo Travel Diary"</ins>
 
     - Give different things (https://genshin-impact.fandom.com/wiki/Geo_Travel_Diary"
     - God of Wealth _DONE_
@@ -34,12 +30,12 @@
     - God of History
     - God of Ground-breaker
 
-<ins>8. "Cliffhanger"</ins>
+<ins>7. "Cliffhanger"</ins>
 
     - 3 different stories
     - can talk to 2
     - can give 1 each time to the guy
-    - start with wrath if possible
+    - Wrath done, part 1 or part 2 needed 
 
 <h3>INAZUMA</h3>
 
