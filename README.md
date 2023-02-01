@@ -35,7 +35,7 @@
     - 3 different stories
     - can talk to 2
     - can give 1 each time to the guy
-    - Wrath done, part 1 or part 2 needed 
+    - Wrath done, part 2 done, part 1 needed
 
 <h3>INAZUMA</h3>
 
