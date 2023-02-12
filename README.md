@@ -27,7 +27,7 @@
     - Give different things (https://genshin-impact.fandom.com/wiki/Geo_Travel_Diary"
     - God of Wealth _DONE_
     - God of the Stove
-    - God of History
+    - God of History _DONE_
     - God of Ground-breaker
 
 <ins>7. "Cliffhanger"</ins>
