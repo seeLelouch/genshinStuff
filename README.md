@@ -28,7 +28,7 @@
     - God of Wealth _DONE_
     - God of the Stove
     - God of History _DONE_
-    - God of Ground-breaker
+    - God of Ground-breaker _DONE_
 
 <ins>7. "Cliffhanger"</ins>
 
