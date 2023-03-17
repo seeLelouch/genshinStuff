@@ -11,15 +11,7 @@
     - 2 at a time
     - Refer to: https://genshin-impact.fandom.com/wiki/Good_Sign
 
-<ins>2. "Geo Travel Diary"</ins>
-
-    - Give different things (https://genshin-impact.fandom.com/wiki/Geo_Travel_Diary"
-    - God of Wealth _DONE_
-    - God of the Stove
-    - God of History _DONE_
-    - God of Ground-breaker _DONE_
-
-<ins>3. "Cliffhanger"</ins>
+<ins>2. "Cliffhanger"</ins>
 
     - 3 different stories
     - can talk to 2
