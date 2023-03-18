@@ -5,9 +5,17 @@
 <ins>1. "Good Sign"</ins>
 
     - find 5 signs
-    - ? done
+Seeing that Granny Shan has good business
+Leaving the pigeons alone DONE
+Leaving the dogs alone
+Leaving the cat and fish alone DONE
+Leaving the leaves alone DONE
+
     - ruin 4 signs
-    - ? done
+Killing the pigeons
+Scaring the dogs away
+Harvesting or killing the fish and/or scaring away the cat PROBABLY DONE
+Burning or blowing away the leaves
     - 2 at a time
     - Refer to: https://genshin-impact.fandom.com/wiki/Good_Sign
 
