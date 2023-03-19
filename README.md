@@ -7,14 +7,14 @@
     - find 5 signs
 Seeing that Granny Shan has good business
 Leaving the pigeons alone DONE
-Leaving the dogs alone
+Leaving the dogs alone DONE
 Leaving the cat and fish alone DONE
 Leaving the leaves alone DONE
 
     - ruin 4 signs
 Killing the pigeons
 Scaring the dogs away
-Harvesting or killing the fish and/or scaring away the cat PROBABLY DONE
+Harvesting or killing the fish and/or scaring away the cat PROBABLY NOT DONE
 Burning or blowing away the leaves
     - 2 at a time
     - Refer to: https://genshin-impact.fandom.com/wiki/Good_Sign
