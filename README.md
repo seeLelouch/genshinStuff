@@ -19,12 +19,6 @@ Burning or blowing away the leaves
     - 2 at a time
     - Refer to: https://genshin-impact.fandom.com/wiki/Good_Sign
 
-<ins>2. "Cliffhanger"</ins>
-
-    - 3 different stories
-    - can talk to 2
-    - can give 1 each time to the guy
-    - Wrath done, part 2 done, part 1 needed
 
 <h3>INAZUMA</h3>
 
