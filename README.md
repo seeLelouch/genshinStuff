@@ -13,8 +13,8 @@ Leaving the leaves alone DONE
 
     - ruin 4 signs
 Killing the pigeons
-Scaring the dogs away
-Harvesting or killing the fish and/or scaring away the cat PROBABLY NOT DONE
+Scaring the dogs away DONE
+Harvesting or killing the fish and/or scaring away the cat DONE
 Burning or blowing away the leaves
     - 2 at a time
     - Refer to: https://genshin-impact.fandom.com/wiki/Good_Sign
