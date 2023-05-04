@@ -15,7 +15,7 @@ Leaving the leaves alone DONE
 Killing the pigeons
 Scaring the dogs away DONE
 Harvesting or killing the fish and/or scaring away the cat DONE
-Burning or blowing away the leaves
+Burning or blowing away the leaves DONE
     - 2 at a time
     - Refer to: https://genshin-impact.fandom.com/wiki/Good_Sign
 
