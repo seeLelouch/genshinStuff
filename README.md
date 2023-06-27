@@ -4,13 +4,6 @@
 
 <ins>1. "Good Sign"</ins>
 
-    - find 5 signs
-Seeing that Granny Shan has good business
-Leaving the pigeons alone DONE
-Leaving the dogs alone DONE
-Leaving the cat and fish alone DONE
-Leaving the leaves alone DONE
-
     - ruin 4 signs
 Killing the pigeons
 Scaring the dogs away DONE
