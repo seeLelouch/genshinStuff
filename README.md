@@ -1,18 +1,5 @@
 # genshinStuff </h1>
 
-<h3>LIYUE</h3>
-
-<ins>1. "Good Sign"</ins>
-
-    - ruin 4 signs
-Killing the pigeons
-Scaring the dogs away DONE
-Harvesting or killing the fish and/or scaring away the cat DONE
-Burning or blowing away the leaves DONE
-    - 2 at a time
-    - Refer to: https://genshin-impact.fandom.com/wiki/Good_Sign
-
-
 <h3>INAZUMA</h3>
 
 <ins>1. "Bantan Sango Case File"</ins>
