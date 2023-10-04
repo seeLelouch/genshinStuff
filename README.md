@@ -22,11 +22,6 @@
 
     - idfk google when you get the 2 guys having book problems
 
-<ins>6. "An Art to Be Honed"</ins>
-
-    - complete 5 times
-    - done 4 / 5
-
 <h3>SUMERU</h3>
 
 TBD, can't be assed
