@@ -96,7 +96,7 @@ Starshroom.
 A high flame first, and then a low flame.
 Until the soup deepens in color.
 
-<ins>13. "Desert Bloom -> Blooming Sands: Lasting Scent"</ins>
+<ins>14. "Desert Bloom -> Blooming Sands: Lasting Scent"</ins>
 
 - Watering Version
 
