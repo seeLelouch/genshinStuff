@@ -63,23 +63,11 @@ In the second version of this quest get 5 planks then complete third version
 - Potato
 - Raw Meat
 
-<ins>11. "Akademiya Q&A"</ins>
-
--Talk to Ziryab
-
-The player will get three random questions
-The correct answers are: Amurta, Spantamad, Wall of Samiel, Divine Tree, Sumpter Beast, and Fungi.
-
-Giving the correct answers to all six questions grants the Wonders of the World achievement Scholarly in Sumeru.
-The achievement can be obtained the first time the player obtains this commission. 
-
-!!!To do so, answer the first two questions and then exit the game (or minimize it on mobile to reset the dialogue). Upon reconnecting, the questions will have re-randomized. Repeat this until all six questions have been correctly answered, then answer the third question and finish the commission.!!!
-
-<ins>12. "Run, Hilmi, Run!"</ins>
+<ins>11. "Run, Hilmi, Run!"</ins>
 
 - lose
 
-<ins>13. "Good Medicine Is Hard to Come By"</ins>
+<ins>12. "Good Medicine Is Hard to Come By"</ins>
 
 - If the patient has a headache, the instructions are:
 Mint.
@@ -96,7 +84,7 @@ Starshroom.
 A high flame first, and then a low flame.
 Until the soup deepens in color.
 
-<ins>14. "Desert Bloom -> Blooming Sands: Lasting Scent"</ins>
+<ins>13. "Desert Bloom -> Blooming Sands: Lasting Scent"</ins>
 
 - Watering Version
 
