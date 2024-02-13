@@ -20,6 +20,8 @@ In order to receive both achievements within the same cycle, the player needs to
 
 Initial → Bargain Hunting → Fortune
 
+FORTUNE DONE
+
 <ins>3. "Meow... Meow meow? Meow! Meow."</ins>
 
 The player is granted the Wonders of the World achievement Catch Me-ow if You Can! when all three cats have been caught successfully.
