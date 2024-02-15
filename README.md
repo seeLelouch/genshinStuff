@@ -47,6 +47,8 @@ https://genshin-impact.fandom.com/wiki/Garcia%27s_Paean:_Key_Items
 
 - Complete all 3 versions
 
+did first fight
+
 <ins>8. "Project Baby"</ins>
 
 - Take all 3 special, aditional items:
