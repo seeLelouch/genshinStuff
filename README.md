@@ -93,7 +93,7 @@ Until the soup deepens in color.
 - Watering Version
 
 - Kitten Version
-
+water + kitten done i think
 - Zaytun Peach Version
 
 Closing the game or disconnecting from the internet during the initial dialogue resets the quest and can change the version. 
