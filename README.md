@@ -67,10 +67,6 @@ In the second version of this quest get 5 planks then complete third version
 - Potato
 - Raw Meat
 
-<ins>11. "Run, Hilmi, Run!"</ins>
-
-- lose
-
 <ins>12. "Good Medicine Is Hard to Come By"</ins>
 
 - If the patient has a headache, the instructions are:
