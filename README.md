@@ -1,4 +1,4 @@
-# genshinStuff </h1>
+ # genshinStuff </h1>
 
 <h3>SUMERU</h3>
 
@@ -13,12 +13,13 @@ The Total Loss and Fortune versions end the Commission series here, forcing a re
 The Small Profit and Bargain Hunting versions allow to player to continue to Part 3.
 
 Part 3 can be one of the following versions: Total Loss, Fortune
-Completing the follow-up Commission in which Hatim goes bargain-hunting grants the Wonders of the World achievement When Wealth Comes A-Knockin'.
+Completing the follow-up Commission in which Hatim goes bargain-hunting grants the Wonders of the World achievement When Wealth Comes A-Knockin'. DONE
 Completing the follow-up Commission in which Hatim makes a fortune grants the Wonders of the World achievement Kalimi's Fungus.
 
 In order to receive both achievements within the same cycle, the player needs to complete the Commission series in the following order:
 
 Initial → Bargain Hunting → Fortune
+DID BARGAI HUNTING
 
 FORTUNE DONE
 
