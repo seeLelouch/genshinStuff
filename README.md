@@ -68,23 +68,6 @@ In the second version of this quest get 5 planks then complete third version
 - Potato
 - Raw Meat
 
-<ins>12. "Good Medicine Is Hard to Come By"</ins>
-
-- If the patient has a headache, the instructions are:
-Mint.
-Brew on a high flame throughout.
-Until the ingredients float.
-
-- If the patient has a stomachache, the instructions are:
-Henna Berry.
-Brew on a low flame throughout.
-Until the ingredients turn mushy.
-
-- If the patient can't see well, the instructions are:
-Starshroom.
-A high flame first, and then a low flame.
-Until the soup deepens in color.
-
 <ins>13. "Desert Bloom -> Blooming Sands: Lasting Scent"</ins>
 
 - Watering Version
@@ -92,6 +75,8 @@ Until the soup deepens in color.
 - Kitten Version
 water + kitten done i think
 - Zaytun Peach Version
+
+watering done for sure,  kitten probably, awaiting lasing scent
 
 Closing the game or disconnecting from the internet during the initial dialogue resets the quest and can change the version. 
 Since the follow-up commission Blooming Sands: Lasting Scent requires completing all 3 versions, and each version can be recognized based on its unique initial dialogue, players can keep resetting the quest until they get the desired version and avoid duplicates in the process.
