@@ -74,19 +74,6 @@ In the second version of this quest get 5 planks then complete third version
 - Potato
 - Raw Meat
 
-<ins>13. "Desert Bloom -> Blooming Sands: Lasting Scent"</ins>
-
-- Watering Version
-
-- Kitten Version
-water + kitten done i think
-- Zaytun Peach Version
-
-watering done for sure,  kitten probably, awaiting lasing scent
-
-Closing the game or disconnecting from the internet during the initial dialogue resets the quest and can change the version. 
-Since the follow-up commission Blooming Sands: Lasting Scent requires completing all 3 versions, and each version can be recognized based on its unique initial dialogue, players can keep resetting the quest until they get the desired version and avoid duplicates in the process.
-
 
 
 # Spincrystals </h1>
