@@ -50,6 +50,8 @@ https://genshin-impact.fandom.com/wiki/Garcia%27s_Paean:_Key_Items
 
 - Heal all 3 patients and also do them a favor after
 
+AFTAB DONE
+
 <ins>7. "To Measure the World!"</ins>
 
 - Complete all 3 versions
