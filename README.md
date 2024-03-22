@@ -35,7 +35,7 @@ Each cat has five possible locations which are randomly chosen upon starting the
 
 - Lale found, not completed
 - Nargis
-- Rozan
+- Rozan found, not completed
 
 <ins>4. "Garcia's Paean"</ins>
 
