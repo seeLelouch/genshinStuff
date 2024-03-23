@@ -33,7 +33,7 @@ Since the achievement registers each cat when it is caught and not when the comm
 
 Each cat has five possible locations which are randomly chosen upon starting the challenge. This location can change if the challenge is abandoned.
 
-- Lale found, not completed
+- Lale found AND CORRECTLY DONE, not completed
 - Nargis
 - Rozan found, not completed - i think i fucked up
 
