@@ -73,7 +73,7 @@ In the second version of this quest get 5 planks then complete third version
 
 <ins>10. "Eat and Learn"</ins>
 
-- Mint
+- Mint DONE
 - Potato DONE
 - Raw Meat
 
