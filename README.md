@@ -42,10 +42,6 @@ Each cat has five possible locations which are randomly chosen upon starting the
 - Long quest chain, have to select right answers at some point, look here:
 https://genshin-impact.fandom.com/wiki/Garcia%27s_Paean:_Key_Items
 
-<ins>5. "Attaché in Another Land"</ins>
-
-- Pick more than 5 mushrooms
-
 <ins>7. "To Measure the World!"</ins>
 
 - Complete all 3 versions
