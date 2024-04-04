@@ -60,13 +60,6 @@ Strange Tiny Hats Strange Tiny Hats during the #Tree Nest Version are found in a
 
 In the second version of this quest get 5 planks then complete third version
 
-<ins>10. "Eat and Learn"</ins>
-
-- Mint DONE
-- Potato DONE
-- Raw Meat
-
-
 
 # Spincrystals </h1>
 
