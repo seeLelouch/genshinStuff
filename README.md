@@ -47,6 +47,7 @@ https://genshin-impact.fandom.com/wiki/Garcia%27s_Paean:_Key_Items
 - Complete all 3 versions
 
 did first fight did deafeat wirst enemies
+set up beacons
 
 <ins>8. "Project Baby"</ins>
 
