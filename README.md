@@ -42,13 +42,6 @@ Each cat has five possible locations which are randomly chosen upon starting the
 - Long quest chain, have to select right answers at some point, look here:
 https://genshin-impact.fandom.com/wiki/Garcia%27s_Paean:_Key_Items
 
-<ins>7. "To Measure the World!"</ins>
-
-- Complete all 3 versions
-
-did first fight did deafeat wirst enemies
-set up beacons
-
 <ins>8. "Project Baby"</ins>
 
 - Take all 3 special, aditional items:
