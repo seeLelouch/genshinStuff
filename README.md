@@ -57,34 +57,34 @@ In the second version of this quest get 5 planks then complete third version
 
 # Craftable weapons </h1>
 
-Whiteblind 5/5
-Prototype Rancour 5/5
-Snow-Tombed Starsilver 1/5
-Dragonspine Spear
-Frostbearer
-Prototype Starglitter
-Hakushin Ring
-Amenoma Kageuchi
-Kitain Cross Spear
-Katsuragikiri Nagamasa
-Hamayumi
-Sapwood Blade
-Fruit of Fulfilment
-King's Squire
-Forest Regalia
-Moonpiercer
-Crescent Pike
-Mappa Mare
-Compound Bow 2/5
-Prototype Amber 5/5
-Iron Sting 5/5
-Prototype Archaic 5/5
-Prototype Crescent 5/5
-Finale of the Deep
-Song of Stillness
-Flowing Purity
-Rightful Reward
-Tidal Shadow
+Whiteblind 5/5 \
+Prototype Rancour 5/5 \
+Snow-Tombed Starsilver 1/5 \
+Dragonspine Spear \
+Frostbearer \
+Prototype Starglitter \
+Hakushin Ring \
+Amenoma Kageuchi \
+Kitain Cross Spear \
+Katsuragikiri Nagamasa \
+Hamayumi \
+Sapwood Blade \
+Fruit of Fulfilment \
+King's Squire \
+Forest Regalia \
+Moonpiercer \
+Crescent Pike \
+Mappa Mare \
+Compound Bow 2/5 \
+Prototype Amber 5/5 \
+Iron Sting 5/5 \
+Prototype Archaic 5/5 \ 
+Prototype Crescent 5/5 \
+Finale of the Deep \
+Song of Stillness \
+Flowing Purity \
+Rightful Reward \
+Tidal Shadow \
 
 # Spincrystals </h1>
 
