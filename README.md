@@ -58,7 +58,7 @@ In the second version of this quest get 5 planks then complete third version
 # Craftable weapons </h1>
 
 Whiteblind 5/5 \
-<span style="color:green">Prototype Rancour 5/5</span> \
+Prototype Rancour 5/5 \
 Snow-Tombed Starsilver 1/5 \
 Dragonspine Spear \
 Frostbearer \
