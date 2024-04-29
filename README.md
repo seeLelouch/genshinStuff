@@ -60,31 +60,31 @@ In the second version of this quest get 5 planks then complete third version
 Whiteblind 5/5 \
 Prototype Rancour 5/5 \
 Snow-Tombed Starsilver 1/5 \
-Dragonspine Spear \
-Frostbearer \
-Prototype Starglitter \
-Hakushin Ring \
-Amenoma Kageuchi \
-Kitain Cross Spear \
-Katsuragikiri Nagamasa \
-Hamayumi \
-Sapwood Blade \
-Fruit of Fulfilment \
-King's Squire \
-Forest Regalia \
-Moonpiercer \
-Crescent Pike \
-Mappa Mare \
+Dragonspine Spear 1/5 \
+Frostbearer 1/5 \
+Prototype Starglitter 1/5 \
+Hakushin Ring 1/5 \
+Amenoma Kageuchi 1/5 \
+Kitain Cross Spear 1/5 \
+Katsuragikiri Nagamasa 1/5 \
+Hamayumi 2/5 \
+Sapwood Blade 5/5 \
+Fruit of Fulfilment 1/5 \
+King's Squire 1/5 \
+Forest Regalia 1/5 \
+Moonpiercer 1/5 \
+Crescent Pike 2/5 \
+Mappa Mare 1/5 \
 Compound Bow 2/5 \
 Prototype Amber 5/5 \
 Iron Sting 5/5 \
 Prototype Archaic 5/5 \
-Finale of the Deep \
+Finale of the Deep 0/5 \
 Prototype Crescent 5/5 \
-Song of Stillness \
-Flowing Purity \
-Rightful Reward \
-Tidal Shadow 
+Song of Stillness 2/5 \
+Flowing Purity 1/5 \
+Rightful Reward 1/5 \
+Tidal Shadow 1/5
 
 # Spincrystals </h1>
 
