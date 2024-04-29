@@ -78,13 +78,13 @@ Mappa Mare \
 Compound Bow 2/5 \
 Prototype Amber 5/5 \
 Iron Sting 5/5 \
-Prototype Archaic 5/5 \ 
-Prototype Crescent 5/5 \
+Prototype Archaic 5/5 \
 Finale of the Deep \
+Prototype Crescent 5/5 \
 Song of Stillness \
 Flowing Purity \
 Rightful Reward \
-Tidal Shadow \
+Tidal Shadow 
 
 # Spincrystals </h1>
 
