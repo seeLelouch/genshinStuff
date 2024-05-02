@@ -23,20 +23,6 @@ DID BARGAI HUNTING
 
 FORTUNE DONE
 
-<ins>3. "Meow... Meow meow? Meow! Meow."</ins>
-
-https://genshin-impact.fandom.com/wiki/Meow..._Meow_meow%3F_Meow!_Meow.
-
-The player is granted the Wonders of the World achievement Catch Me-ow if You Can! when all three cats have been caught successfully.
-
-Since the achievement registers each cat when it is caught and not when the commission is completed by reporting back to Sareh, it is possible to receive the achievement within a single commission cycle by catching the cats and never reporting back to finish the commission.
-
-Each cat has five possible locations which are randomly chosen upon starting the challenge. This location can change if the challenge is abandoned.
-
-- Lale found AND CORRECTLY DONE, not completed
-- Nargis
-- Rozan found AND CORRECTLY DONE
-
 <ins>4. "Garcia's Paean"</ins>
 
 - Long quest chain, have to select right answers at some point, look here:
