@@ -23,11 +23,6 @@ DID BARGAI HUNTING
 
 FORTUNE DONE
 
-<ins>4. "Garcia's Paean"</ins>
-
-- Long quest chain, have to select right answers at some point, look here:
-https://genshin-impact.fandom.com/wiki/Garcia%27s_Paean:_Key_Items
-
 <ins>8. "Project Baby"</ins>
 
 - Take all 3 special, aditional items:
