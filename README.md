@@ -39,7 +39,7 @@ In the second version of this quest get 5 planks then complete third version
 # Craftable weapons </h1>
 
 - [x] Whiteblind 5/5 \
-Prototype Rancour 5/5 - [x] \
+- [x] Prototype Rancour 5/5 \
 Snow-Tombed Starsilver 1/5 \
 Dragonspine Spear 1/5 \
 Frostbearer 1/5 \
@@ -57,11 +57,11 @@ Moonpiercer 1/5 \
 Crescent Pike 2/5 \
 Mappa Mare 1/5 \
 Compound Bow 2/5 \
-Prototype Amber 5/5 - [x] \
+- [x] Prototype Amber 5/5 \
 Iron Sting 5/5 \
-Prototype Archaic 5/5 - [x] \
+- [x] Prototype Archaic 5/5 \
 Finale of the Deep 0/5 \
-Prototype Crescent 5/5 - [x] \
+- [x] Prototype Crescent 5/5 \
 Song of Stillness 2/5 \
 Flowing Purity 1/5 \
 Rightful Reward 1/5 \
