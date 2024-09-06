@@ -38,8 +38,8 @@ In the second version of this quest get 5 planks then complete third version
 
 # Craftable weapons </h1>
 
-Whiteblind 5/5 \
-Prototype Rancour 5/5 \
+Whiteblind 5/5 - [x] \
+Prototype Rancour 5/5 - [x] \
 Snow-Tombed Starsilver 1/5 \
 Dragonspine Spear 1/5 \
 Frostbearer 1/5 \
@@ -57,15 +57,23 @@ Moonpiercer 1/5 \
 Crescent Pike 2/5 \
 Mappa Mare 1/5 \
 Compound Bow 2/5 \
-Prototype Amber 5/5 \
+Prototype Amber 5/5 - [x] \
 Iron Sting 5/5 \
-Prototype Archaic 5/5 \
+Prototype Archaic 5/5 - [x] \
 Finale of the Deep 0/5 \
-Prototype Crescent 5/5 \
+Prototype Crescent 5/5 - [x] \
 Song of Stillness 2/5 \
 Flowing Purity 1/5 \
 Rightful Reward 1/5 \
-Tidal Shadow 1/5
+Tidal Shadow 1/5 \
+
+Natlan Craftables:
+
+Flute of Ezpitzal 1/5 \
+Earth Shaker 1/5 \
+Ring of Yaxche 1/5 \
+Footprint of the Rainbow 1/5 \
+Chain Breaker 1/5 
 
 # Spincrystals </h1>
 
