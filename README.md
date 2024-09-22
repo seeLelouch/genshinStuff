@@ -34,6 +34,7 @@ Strange Tiny Hats Strange Tiny Hats during the #Tree Nest Version are found in a
 <ins>9. "Problem Conversion"</ins>
 
 In the second version of this quest get 5 planks then complete third version
+welp did second version, only gave the guy 3 idfk
 
 
 # Craftable weapons </h1>
