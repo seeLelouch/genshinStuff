@@ -27,7 +27,7 @@ FORTUNE DONE
 
 - Take all 3 special, aditional items:
 
-Strange Bead Strange Bead during the #Fungi Version is found in a pot next to the tent.
+Strange Bead Strange Bead during the #Fungi Version is found in a pot next to the tent. <--- THIS ONE DONE
 Shabby Rack Shabby Rack during the #Rockslide Version is found by breaking the second rock pile on the small hill.
 Strange Tiny Hats Strange Tiny Hats during the #Tree Nest Version are found in a fourth nest near the top of the tree. <-- THIS ONE DONE
 
