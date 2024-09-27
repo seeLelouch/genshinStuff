@@ -2,26 +2,6 @@
 
 <h3>SUMERU</h3>
 
-<ins>1. & 2. "Gold Devouring and Mora Gathering"</ins>
-
-This Commission can be received up to three times per Commission cycle and is divided into three parts.
-
-Part 1 will always be the Initial Version. The type and quality of the dish do not affect the follow-up versions.
-
-Part 2 can be one of the following versions: Total Loss, Small Profit, Bargain Hunting, Fortune
-The Total Loss and Fortune versions end the Commission series here, forcing a restart from the Initial Version in the next Commission cycle.
-The Small Profit and Bargain Hunting versions allow to player to continue to Part 3.
-
-Part 3 can be one of the following versions: Total Loss, Fortune
-Completing the follow-up Commission in which Hatim goes bargain-hunting grants the Wonders of the World achievement When Wealth Comes A-Knockin'. DONE
-Completing the follow-up Commission in which Hatim makes a fortune grants the Wonders of the World achievement Kalimi's Fungus.
-
-In order to receive both achievements within the same cycle, the player needs to complete the Commission series in the following order:
-
-Initial → Bargain Hunting → Fortune
-DID BARGAI HUNTING
-
-FORTUNE DONE
 
 <ins>8. "Project Baby"</ins>
 
@@ -31,10 +11,9 @@ Strange Bead Strange Bead during the #Fungi Version is found in a pot next to th
 Shabby Rack Shabby Rack during the #Rockslide Version is found by breaking the second rock pile on the small hill.
 Strange Tiny Hats Strange Tiny Hats during the #Tree Nest Version are found in a fourth nest near the top of the tree. <-- THIS ONE DONE
 
-<ins>9. "Problem Conversion"</ins>
+<ins>9. "When Flowers Bloom"</ins>
 
-In the second version of this quest get 5 planks then complete third version
-welp did second version, only gave the guy 3 idfk
+Grants the Wonders of the World achievement Up by the Roots if the player defeats the Whopperflower in the Whopperflower version of the commission.
 
 
 # Craftable weapons </h1>
