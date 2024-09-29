@@ -1,15 +1,32 @@
  # genshinStuff </h1>
 
-<h3>SUMERU</h3>
+<h3>FONTAINE</h3>
 
+<ins>1. "Tales From the Court"</ins>
+    - Isadora Version
+    - Livre Version
+    - Staelle Version
 
-<ins>8. "Project Baby"</ins>
+<ins>2. "Get a Drink at Least!"</ins>
+Special Blend Version
+Talk to Arouet
+Start brewing Special Blend Coffee
 
-- Take all 3 special, aditional items:
+<ins>3. "Aesthetic Critique"</ins>
 
-Strange Bead Strange Bead during the #Fungi Version is found in a pot next to the tent. <--- THIS ONE DONE
-Shabby Rack Shabby Rack during the #Rockslide Version is found by breaking the second rock pile on the small hill.
-Strange Tiny Hats Strange Tiny Hats during the #Tree Nest Version are found in a fourth nest near the top of the tree. <-- THIS ONE DONE
+- questchain, just keep doing it
+
+<ins>4. "Their Childhood"</ins>
+
+- questchain, just keep doing it
+
+<ins>5. "Refreshing Fonta, a Font of Refreshment!"</ins>
+
+There are three possible locations to search.
+
+Completing all three versions of this commission will unlock the Daily Commission "Time to Drink". 
+Complete that one for achievement.
+
 
 # Craftable weapons </h1>
 
