@@ -4,7 +4,7 @@
 
 <ins>1. "Tales From the Court"</ins>
     - Isadora Version
-    - Livre Version
+    - Livre Version <- i think done
     - Staelle Version
 
 <ins>2. "Get a Drink at Least!"</ins>
