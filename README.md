@@ -5,12 +5,7 @@
 <ins>1. "Tales From the Court"</ins>
     - Isadora Version
     - Livre Version <- i think done
-    - Staelle Version
-
-<ins>2. "Get a Drink at Least!"</ins>
-Special Blend Version
-Talk to Arouet
-Start brewing Special Blend Coffee
+    - Staelle Version <- i think done
 
 <ins>3. "Aesthetic Critique"</ins>
 
