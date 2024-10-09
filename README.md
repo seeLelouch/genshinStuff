@@ -2,11 +2,6 @@
 
 <h3>FONTAINE</h3>
 
-<ins>1. "Tales From the Court"</ins>
-    - Isadora Version
-    - Livre Version <- i think done
-    - Staelle Version <- i think done
-
 <ins>3. "Aesthetic Critique"</ins>
 
 - questchain, just keep doing it
