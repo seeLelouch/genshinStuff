@@ -66,7 +66,7 @@ Chain Breaker 1/5
 - [ ] Sacrificial Jade 2/5
 - [ ] Solar Pearl 2/5 
 - [ ] Scion of the Blazing Sun 1/5
-- [ ] The Viridescent Hunt 2/5 
+- [ ] The Viridescent Hunt 3/5 
 - [ ] Ballad of the Fjords 2/5
 - [x] Deathmatch 6/5 OOPS
 
