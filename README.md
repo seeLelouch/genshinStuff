@@ -6,10 +6,6 @@
 
 - questchain, just keep doing it
 
-<ins>4. "Their Childhood"</ins>
-
-- questchain, just keep doing it
-
 <ins>5. "Refreshing Fonta, a Font of Refreshment!"</ins>
 
 There are three possible locations to search.
