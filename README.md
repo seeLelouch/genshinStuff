@@ -2,10 +2,6 @@
 
 <h3>FONTAINE</h3>
 
-<ins>3. "Aesthetic Critique"</ins>
-
-- questchain, just keep doing it
-
 <ins>5. "Refreshing Fonta, a Font of Refreshment!"</ins>
 
 There are three possible locations to search.
