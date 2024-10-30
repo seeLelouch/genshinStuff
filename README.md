@@ -1,14 +1,48 @@
  # genshinStuff </h1>
 
-<h3>FONTAINE</h3>
+<h3>NATLAN</h3>
 
-<ins>5. "Refreshing Fonta, a Font of Refreshment!"</ins>
+<ins>1. "How to Make Friends"</ins>
 
-There are three possible locations to search.
+- Choose to comfort the Yumkasauraus three times 0/3
 
-Completing all three versions of this commission will unlock the Daily Commission "Time to Drink". 
-Complete that one for achievement.
+<ins>2. "Hmm? Natlan?"</ins>
+Each commission will present the player three random questions, the correct answers to each question are as follows:
+"Who are the companions of the Children of Echoes? What is their true name?" — Tepetlisaurus
+"What is the name of the tribe where the Yumkasaurs live?" — The Scions of the Canopy
+"Natlan has a certain thing. It can be used for forging, for the making of records (...) What's the name of that thing?" — Phlogiston
+"Who are the companions of the People of the Springs? What is their true name?" — Koholasaurus
+"In Natlan, there is a type of mushroom that contains phlogiston. What is its name?" — Candlecap Mushroom
+"In Natlan, there is a type of flower that contains phlogiston. What is its name?" — Embercore Flower
 
+<ins>3. "Tending to a Tepetlisaurus: In Need of a Trim"</ins>
+
+First complete normal version -> unlocks trim version 
+
+-> instead of trimming, pet or squeeze paw 3 times
+
+<ins>4. "Prophets of Pop"</ins>
+
+CAREFUL! Second version 
+(Retrieve the record after talking to Milu Nui)
+
+Don't break the crate holding the record and record player!
+https://www.youtube.com/watch?v=r5AmwwYJozE
+
+<ins>5. "Saurian Versus Mountain"</ins>
+
+BE REALLY FAST? IDK XILONEN MAYBE
+
+<ins>6. "Sharpshooter on Hand"</ins>
+
+Complete side task -> complete main task
+https://genshin-impact.fandom.com/wiki/Sharpshooter_on_Hand
+
+<ins>7. "Grow Up Quickly, Littl'Un"</ins>
+
+Completing the dig without being in the radius of an explosion grants the Wonders of the World achievement Citius, Altius, Fortius!.
+
+https://www.youtube.com/watch?v=JvHfCi00ygI
 
 # Craftable weapons </h1>
 
