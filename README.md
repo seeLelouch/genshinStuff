@@ -29,10 +29,6 @@ CAREFUL! Second version
 Don't break the crate holding the record and record player!
 https://www.youtube.com/watch?v=r5AmwwYJozE
 
-<ins>5. "Saurian Versus Mountain"</ins>
-
-BE REALLY FAST? IDK XILONEN MAYBE
-
 <ins>6. "Sharpshooter on Hand"</ins>
 
 Complete side task -> complete main task
