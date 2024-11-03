@@ -4,7 +4,7 @@
 
 <ins>1. "How to Make Friends"</ins>
 
-- Choose to comfort the Yumkasauraus three times 0/3
+- Choose to comfort the Yumkasauraus three times 1/3
 
 <ins>2. "Hmm? Natlan?"</ins>
 Each commission will present the player three random questions, the correct answers to each question are as follows:
