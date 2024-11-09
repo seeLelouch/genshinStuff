@@ -29,17 +29,6 @@ CAREFUL! Second version
 Don't break the crate holding the record and record player!
 https://www.youtube.com/watch?v=r5AmwwYJozE
 
-<ins>6. "Sharpshooter on Hand"</ins>
-
-Complete side task -> complete main task
-https://genshin-impact.fandom.com/wiki/Sharpshooter_on_Hand
-
-<ins>7. "Grow Up Quickly, Littl'Un"</ins>
-
-Completing the dig without being in the radius of an explosion grants the Wonders of the World achievement Citius, Altius, Fortius!.
-
-https://www.youtube.com/watch?v=JvHfCi00ygI
-
 # Craftable weapons </h1>
 
 - [x] Whiteblind 5/5 
