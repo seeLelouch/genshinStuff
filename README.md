@@ -6,21 +6,6 @@
 
 - Choose to comfort the Yumkasauraus three times 1/3
 
-<ins>2. "Hmm? Natlan?"</ins>
-Each commission will present the player three random questions, the correct answers to each question are as follows:
-"Who are the companions of the Children of Echoes? What is their true name?" — Tepetlisaurus
-"What is the name of the tribe where the Yumkasaurs live?" — The Scions of the Canopy
-"Natlan has a certain thing. It can be used for forging, for the making of records (...) What's the name of that thing?" — Phlogiston
-"Who are the companions of the People of the Springs? What is their true name?" — Koholasaurus
-"In Natlan, there is a type of mushroom that contains phlogiston. What is its name?" — Candlecap Mushroom
-"In Natlan, there is a type of flower that contains phlogiston. What is its name?" — Embercore Flower
-
-<ins>3. "Tending to a Tepetlisaurus: In Need of a Trim"</ins>
-
-First complete normal version -> unlocks trim version 
-
--> instead of trimming, pet or squeeze paw 3 times
-
 <ins>4. "Prophets of Pop"</ins>
 
 CAREFUL! Second version 
