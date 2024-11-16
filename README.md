@@ -8,7 +8,7 @@
 
 <ins>4. "Prophets of Pop"</ins>
 
-CAREFUL! Second version 
+CAREFUL! Second version  (fist done)
 (Retrieve the record after talking to Milu Nui)
 
 Don't break the crate holding the record and record player!
