@@ -6,14 +6,6 @@
 
 - Choose to comfort the Yumkasauraus three times 1/3
 
-<ins>4. "Prophets of Pop"</ins>
-
-CAREFUL! Second version  (fist done)
-(Retrieve the record after talking to Milu Nui)
-
-Don't break the crate holding the record and record player!
-https://www.youtube.com/watch?v=r5AmwwYJozE
-
 # Craftable weapons </h1>
 
 - [x] Whiteblind 5/5 
