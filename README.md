@@ -4,7 +4,7 @@
 
 <ins>1. "How to Make Friends"</ins>
 
-- Choose to comfort the Yumkasauraus three times 1/3
+- Choose to comfort the Yumkasauraus three times 2/3
 
 # Craftable weapons </h1>
 
@@ -39,7 +39,7 @@ Tidal Shadow 1/5 \
 
 Natlan Craftables:
 
-Flute of Ezpitzal 1/5 \
+Flute of Ezpitzal 2/5 \
 Earth Shaker 1/5 \
 - [x] Ring of Yaxche 5/5 \
 Footprint of the Rainbow 1/5 \
