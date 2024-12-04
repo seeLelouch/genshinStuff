@@ -1,11 +1,5 @@
  # genshinStuff </h1>
-
-<h3>NATLAN</h3>
-
-<ins>1. "How to Make Friends"</ins>
-
-- Choose to comfort the Yumkasauraus three times 2/3
-
+All comission achievements done
 # Craftable weapons </h1>
 
 - [x] Whiteblind 5/5 
