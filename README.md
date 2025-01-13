@@ -9,22 +9,22 @@ Dragonspine Spear 1/5 \
 Frostbearer 1/5 \
 Prototype Starglitter 1/5 \
 Hakushin Ring 1/5 \
-Amenoma Kageuchi 1/5 \
+- [x] Amenoma Kageuchi 5/5 \
 Kitain Cross Spear 1/5 \
 Katsuragikiri Nagamasa 1/5 \
-Hamayumi 2/5 \
-Sapwood Blade 5/5 \
+- [x] Hamayumi 5/5 \
+- [x] Sapwood Blade 5/5 \
 Fruit of Fulfilment 1/5 \
 King's Squire 1/5 \
 Forest Regalia 1/5 \
 Moonpiercer 1/5 \
 Crescent Pike 2/5 \
 Mappa Mare 1/5 \
-Compound Bow 2/5 
+- [x] Compound Bow 5/5 
 - [x] Prototype Amber 5/5 
 - [x] Iron Sting 5/5 
 - [x] Prototype Archaic 5/5 \
-Finale of the Deep 0/5 
+Finale of the Deep 1/5 
 - [x] Prototype Crescent 5/5 \
 Song of Stillness 2/5 \
 Flowing Purity 1/5 \
