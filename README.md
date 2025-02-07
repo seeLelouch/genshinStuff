@@ -24,7 +24,7 @@ Mappa Mare 1/5 \
 - [x] Prototype Amber 5/5 
 - [x] Iron Sting 5/5 
 - [x] Prototype Archaic 5/5 \
-Finale of the Deep 1/5 
+- [x] Finale of the Deep 5/5 
 - [x] Prototype Crescent 5/5 \
 Song of Stillness 2/5 \
 Flowing Purity 1/5 \
