@@ -46,7 +46,7 @@ Chain Breaker 1/5
 - [ ] Talking Stick 1/5
 - [x] Serpent Spine 5/5 
 - [ ] Sacrificial Jade 2/5
-- [ ] Solar Pearl 3/5 
+- [ ] Solar Pearl 4/5 
 - [ ] Scion of the Blazing Sun 1/5
 - [x] The Viridescent Hunt 5/5 
 - [ ] Ballad of the Fjords 2/5
