@@ -27,7 +27,7 @@ Mappa Mare 1/5 \
 - [x] Finale of the Deep 5/5 
 - [x] Prototype Crescent 5/5 \
 Song of Stillness 2/5 \
-Flowing Purity 1/5 \
+- [x] Flowing Purity 5/5 \
 Rightful Reward 1/5 \
 Tidal Shadow 1/5 \
 
