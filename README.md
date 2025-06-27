@@ -10,7 +10,7 @@ Frostbearer 1/5 \
 Prototype Starglitter 1/5 \
 Hakushin Ring 1/5 \
 - [x] Amenoma Kageuchi 5/5 \
-Kitain Cross Spear 1/5 \
+- [x] Kitain Cross Spear 5/5 \
 Katsuragikiri Nagamasa 1/5 \
 - [x] Hamayumi 5/5 \
 - [x] Sapwood Blade 5/5 \
@@ -26,10 +26,10 @@ Mappa Mare 1/5 \
 - [x] Prototype Archaic 5/5 \
 - [x] Finale of the Deep 5/5 
 - [x] Prototype Crescent 5/5 \
-Song of Stillness 2/5 \
+Song of Stillness 3/5 \
 - [x] Flowing Purity 5/5 \
 Rightful Reward 1/5 \
-Tidal Shadow 1/5 \
+- [x] Tidal Shadow 5/5 \
 
 Natlan Craftables:
 
@@ -45,7 +45,7 @@ Chain Breaker 1/5
 - [x] The Black Sword 5/5 
 - [ ] Talking Stick 1/5
 - [x] Serpent Spine 5/5 
-- [ ] Sacrificial Jade 2/5
+- [ ] Sacrificial Jade 3/5
 - [x] Solar Pearl 5/5 
 - [ ] Scion of the Blazing Sun 1/5
 - [x] The Viridescent Hunt 5/5 
