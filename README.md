@@ -11,12 +11,12 @@ Prototype Starglitter 1/5 \
 Hakushin Ring 1/5 \
 - [x] Amenoma Kageuchi 5/5 \
 - [x] Kitain Cross Spear 5/5 \
-Katsuragikiri Nagamasa 1/5 \
+- [x] Katsuragikiri Nagamasa 5/5 \
 - [x] Hamayumi 5/5 \
 - [x] Sapwood Blade 5/5 \
 Fruit of Fulfilment 1/5 \
-King's Squire 1/5 \
-Forest Regalia 1/5 \
+- [x] King's Squire 5/5 \
+- [x] Forest Regalia 5/5 \
 Moonpiercer 1/5 \
 Crescent Pike 2/5 \
 Mappa Mare 1/5 \
@@ -26,7 +26,7 @@ Mappa Mare 1/5 \
 - [x] Prototype Archaic 5/5 \
 - [x] Finale of the Deep 5/5 
 - [x] Prototype Crescent 5/5 \
-Song of Stillness 3/5 \
+Song of Stillness 4/5 \
 - [x] Flowing Purity 5/5 \
 Rightful Reward 1/5 \
 - [x] Tidal Shadow 5/5 \
