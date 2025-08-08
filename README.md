@@ -8,7 +8,7 @@ Snow-Tombed Starsilver 1/5 \
 Dragonspine Spear 1/5 \
 Frostbearer 1/5 \
 Prototype Starglitter 1/5 \
-Hakushin Ring 1/5 \
+- [x] Hakushin Ring 5/5 \
 - [x] Amenoma Kageuchi 5/5 \
 - [x] Kitain Cross Spear 5/5 \
 - [x] Katsuragikiri Nagamasa 5/5 \
@@ -41,16 +41,17 @@ Chain Breaker 1/5
 
 # BP weapons </h1>
 
-- [ ] Wolf-Fang 1/5
-- [x] The Black Sword 5/5 
-- [ ] Talking Stick 1/5
 - [x] Serpent Spine 5/5 
-- [ ] Sacrificial Jade 3/5
+- [x] The Black Sword 5/5
 - [x] Solar Pearl 5/5 
-- [ ] Scion of the Blazing Sun 1/5
 - [x] The Viridescent Hunt 5/5 
-- [ ] Ballad of the Fjords 2/5
 - [x] Deathmatch 6/5 OOPS
+
+- [ ] Ballad of the Fjords 3/5
+- [ ] Sacrificial Jade 3/5
+- [ ] Scion of the Blazing Sun 1/5
+- [ ] Talking Stick 1/5
+- [ ] Wolf-Fang 1/5
 
 # Spincrystals </h1>
 
