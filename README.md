@@ -56,7 +56,7 @@ Master Key 0/5
 - [x] Deathmatch 6/5 OOPS
 
 - [ ] Ballad of the Fjords 3/5
-- [ ] Sacrificial Jade 4/5
+- [x] Sacrificial Jade 5/5
 - [ ] Scion of the Blazing Sun 1/5
 - [ ] Talking Stick 1/5
 - [ ] Wolf-Fang 1/5
