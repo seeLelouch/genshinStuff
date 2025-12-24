@@ -41,11 +41,11 @@ Chain Breaker 1/5
 
 Nod-Krai Craftables:
 
-Prospector's Shovel 0/5 \
-Blackmarrow Lantern 0/5 \
-Snare Hook 0/5 \
-Serenity's Call 0/5 \
-Master Key 0/5 
+Prospector's Shovel 1/5 \
+Blackmarrow Lantern 1/5 \
+Snare Hook 1/5 \
+Serenity's Call 1/5 \
+Master Key 1/5 
 
 # BP weapons </h1>
 
