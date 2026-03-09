@@ -58,7 +58,7 @@ Master Key 1/5
 - [x] Ballad of the Fjords 5/5
 - [x] Sacrificial Jade 5/5
 - [ ] Scion of the Blazing Sun 1/5
-- [ ] Talking Stick 1/5
+- [ ] Talking Stick 2/5
 - [ ] Wolf-Fang 1/5
 
 # Spincrystals </h1>
