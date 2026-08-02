@@ -37,15 +37,15 @@ Flute of Ezpitzal 2/5 \
 Earth Shaker 1/5 \
 - [x] Ring of Yaxche 5/5 \
 Footprint of the Rainbow 1/5 \
-Chain Breaker 1/5 
+Chain Breaker 1/5 \
 
 Nod-Krai Craftables:
 
-Prospector's Shovel 1/5 \
-Blackmarrow Lantern 1/5 \
-Snare Hook 1/5 \
-Serenity's Call 1/5 \
-Master Key 1/5 
+- [x] Prospector's Shovel 5/5 \
+- [x] Blackmarrow Lantern 5/5 \
+- [x] Snare Hook 5/5 \
+- [x] Serenity's Call 5/5 \
+- [x] Master Key 5/5 
 
 # BP weapons </h1>
 
