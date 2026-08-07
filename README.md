@@ -36,7 +36,7 @@ Natlan Craftables:
 Flute of Ezpitzal 2/5 \
 Earth Shaker 1/5 \
 - [x] Ring of Yaxche 5/5 \
-Footprint of the Rainbow 1/5 \
+- [x] Footprint of the Rainbow 5/5 \
 Chain Breaker 1/5 \
 
 Nod-Krai Craftables:
