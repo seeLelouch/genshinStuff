@@ -2,50 +2,7 @@
 All comission achievements done
 # Craftable weapons </h1>
 
-- [x] Whiteblind 5/5 
-- [x] Prototype Rancour 5/5 \
-- [x] Snow-Tombed Starsilver 5/5 \
-- [x] Dragonspine Spear 5/5 \
-- [x] Frostbearer 5/5 \
-- [x] Prototype Starglitter 5/5 \
-- [x] Hakushin Ring 5/5 \
-- [x] Amenoma Kageuchi 5/5 \
-- [x] Kitain Cross Spear 5/5 \
-- [x] Katsuragikiri Nagamasa 5/5 \
-- [x] Hamayumi 5/5 \
-- [x] Sapwood Blade 5/5 \
-- [x] Fruit of Fulfilment 5/5 \
-- [x] King's Squire 5/5 \
-- [x] Forest Regalia 5/5 \
-- [x] Moonpiercer 5/5 \
-- [x] Crescent Pike 5/5 \
-- [x] Mappa Mare 5/5 \
-- [x] Compound Bow 5/5 
-- [x] Prototype Amber 5/5 
-- [x] Iron Sting 5/5 
-- [x] Prototype Archaic 5/5 \
-- [x] Finale of the Deep 5/5 
-- [x] Prototype Crescent 5/5 \
-- [x] Song of Stillness 5/5 \
-- [x] Flowing Purity 5/5 \
-- [x] Rightful Reward 5/5 \
-- [x] Tidal Shadow 5/5 \
-
-Natlan Craftables:
-
-- [x] Flute of Ezpitzal 5/5 \
-- [x] Earth Shaker 5/5 \
-- [x] Ring of Yaxche 5/5 \
-- [x] Footprint of the Rainbow 5/5 \
-- [x] Chain Breaker 5/5 \
-
-Nod-Krai Craftables:
-
-- [x] Prospector's Shovel 5/5 \
-- [x] Blackmarrow Lantern 5/5 \
-- [x] Snare Hook 5/5 \
-- [x] Serenity's Call 5/5 \
-- [x] Master Key 5/5 
+DONE
 
 # BP weapons </h1>
 
