@@ -4,9 +4,9 @@ All comission achievements done
 
 - [x] Whiteblind 5/5 
 - [x] Prototype Rancour 5/5 \
-Snow-Tombed Starsilver 1/5 \
-Dragonspine Spear 1/5 \
-Frostbearer 1/5 \
+- [x] Snow-Tombed Starsilver 5/5 \
+- [x] Dragonspine Spear 5/5 \
+- [x] Frostbearer 5/5 \
 - [x] Prototype Starglitter 5/5 \
 - [x] Hakushin Ring 5/5 \
 - [x] Amenoma Kageuchi 5/5 \
@@ -33,11 +33,11 @@ Frostbearer 1/5 \
 
 Natlan Craftables:
 
-Flute of Ezpitzal 2/5 \
-Earth Shaker 1/5 \
+- [x] Flute of Ezpitzal 5/5 \
+- [x] Earth Shaker 5/5 \
 - [x] Ring of Yaxche 5/5 \
 - [x] Footprint of the Rainbow 5/5 \
-Chain Breaker 1/5 \
+- [x] Chain Breaker 5/5 \
 
 Nod-Krai Craftables:
 
