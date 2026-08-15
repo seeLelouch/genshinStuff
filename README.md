@@ -2,7 +2,11 @@
 All comission achievements done
 # Craftable weapons </h1>
 
-DONE
+- [] Echoes of the Heart 0/5
+- [] Emberwell 0/5
+- [] Covenant of Frost and Snow 0/5
+- [] Blade of Atonement 0/5
+- [] Song of the Vigil 0/5
 
 # BP weapons </h1>
 
@@ -17,6 +21,12 @@ DONE
 - [ ] Scion of the Blazing Sun 1/5
 - [ ] Talking Stick 4/5
 - [ ] Wolf-Fang 1/5
+
+- [ ] Heretic's Molten Blade 0/5
+- [ ] Forged by the Golden Melody 0/5
+- [ ] Clash of Kings 0/5
+- [ ] Jade Vista 0/5
+- [ ] Frostbreath 0/5
 
 # Spincrystals </h1>
 
