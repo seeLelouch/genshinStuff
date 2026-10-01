@@ -3,7 +3,7 @@ All comission achievements done
 # Craftable weapons </h1>
 
 - [] Echoes of the Heart 0/5
-- [] Emberwell 0/5
+- [x] Emberwell 5/5
 - [] Covenant of Frost and Snow 0/5
 - [] Blade of Atonement 0/5
 - [] Song of the Vigil 0/5
