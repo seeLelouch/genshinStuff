@@ -24,7 +24,7 @@ All comission achievements done
 
 - [ ] Heretic's Molten Blade 0/5
 - [ ] Forged by the Golden Melody 0/5
-- [ ] Clash of Kings 0/5
+- [ ] Clash of Kings 1/5
 - [ ] Jade Vista 0/5
 - [ ] Frostbreath 1/5
 
