@@ -45,7 +45,7 @@ Done
 ~~~
 ```diff
 *** Arcana Trade ***
-+ Need: Temperance, Death, Strength, The Hierophant, The High Priestess, The Magician, The Fool, The World, The Moon
++ Need: Temperance, Death, Strength, The High Priestess, The Magician, The Fool, The World, The Moon
 - Have:
 ```
 ~~~
