@@ -26,7 +26,7 @@ All comission achievements done
 - [ ] Forged by the Golden Melody 0/5
 - [ ] Clash of Kings 1/5
 - [ ] Jade Vista 0/5
-- [ ] Frostbreath 1/5
+- [ ] Frostbreath 2/5
 
 # Spincrystals </h1>
 
